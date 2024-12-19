@@ -32,4 +32,4 @@ The application requires no external dependencies other than Python's standard l
 
 ## Author
 
-Riley.
+Riley
