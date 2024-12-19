@@ -26,10 +26,6 @@ This project is a basic calculator application built using Python's Tkinter libr
 
 The application requires no external dependencies other than Python's standard library.
 
-## File Structure
-
-- `calculator.py`: The main Python script containing the calculator application code.
-
 ## Author
 
 Riley
