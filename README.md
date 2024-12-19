@@ -7,7 +7,6 @@ This project is a basic calculator application built using Python's Tkinter libr
 
 - User-friendly interface with buttons for numbers and arithmetic operations.
 - Supports addition, subtraction, multiplication, and division.
-- Displays input expressions and results dynamically.
 - Includes a clear button to reset the input.
 
 ## How to Use
@@ -23,19 +22,6 @@ This project is a basic calculator application built using Python's Tkinter libr
    - Press the `=` button to calculate the result.
    - Press the `Clear` button to reset the input field.
 
-## Code Overview
-
-The application is implemented using the following components:
-
-- **Tkinter GUI Components**:
-  - `Entry`: Displays the current expression or result.
-  - `Button`: Represents each digit (0-9), operators (+, -, *, /), and actions (`Clear`, `=`).
-
-- **Core Functions**:
-  - `press(num)`: Appends the clicked number/operator to the expression.
-  - `clear()`: Clears the current expression.
-  - `equalpress()`: Evaluates the expression and displays the result.
-
 ## Dependencies
 
 The application requires no external dependencies other than Python's standard library.
@@ -44,22 +30,6 @@ The application requires no external dependencies other than Python's standard l
 
 - `calculator.py`: The main Python script containing the calculator application code.
 
-## Example
+## Author
 
-To calculate `5 + 3`:
-1. Click `5`.
-2. Click `+`.
-3. Click `3`.
-4. Click `=` to display the result (`8`).
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-## Contributing
-
-Contributions are welcome! Please fork this repository, make changes, and submit a pull request.
-
-## Contact
-
-For questions or feedback, feel free to reach out to the author.
+Riley.
